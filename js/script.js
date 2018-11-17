@@ -8,7 +8,7 @@ $(document).ready(function() {
 		var plus = $(this).text();
 		$(this).find("span").text(+plus+1);
 	});
-    $.post('../comment.txt', {}, function(txt){
+    $.post('../comment', {}, function(txt){
         var comment=[];
         comment = txt.split(/\n/g);
         console.log(comment);
