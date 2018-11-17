@@ -1,0 +1,14 @@
+
+
+@font-face {
+  font-family: 'PTSans-Bold';
+  src: url('pt-sans-bold/PTSans-Bold.woff') format('woff'),
+       url('pt-sans-bold/PTSans-Bold.ttf') format('truetype'),
+       url('pt-sans-bold/PTSans-Bold.svg#PTSans-Bold') format('svg'),
+       url('pt-sans-bold/2223.eot'),
+       url('pt-sans-bold/2223.woff2') format('woff2'),
+       url('pt-sans-bold/2223.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
