@@ -1,5 +1,4 @@
 $(document).ready(function() {
-    $(window).width("720");
 	$(".reviews__left div").click(function() {
 		$(".reviews__left div").removeClass("reviews_active");
 		$(this).addClass("reviews_active");
